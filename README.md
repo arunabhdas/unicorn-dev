@@ -51,7 +51,7 @@ npm install
 ~~~
 
 ## Screenshots
-![1 - Holodex](https://github.com/arunabhdas/cnctr-dev/blob/master/recipes/cnctr-holodex/screenshots/holodex_1.png?raw=true)
+![1 - Holodex](https://raw.githubusercontent.com/arunabhdas/unicorn-dev/main/recipes/cnctr-holodex/screenshots/holodex_1.png?raw=true)
 
 ## Links
 
